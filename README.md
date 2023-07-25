@@ -18,6 +18,5 @@
   <a href="https://www.instagram.com/luis.com_z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.frontendmentor.io/profile/LuisComZ" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Frontend+Mentor&color=3F54A3&logo=Frontend+Mentor&logoColor=FFFFFF&label=" target="_blank"></a>
  
-  ![Snake animation](https://github.com/LuisComZ/LuisComZ/blob/output/github-contribution-grid-snake.svg)
 
 </div>
